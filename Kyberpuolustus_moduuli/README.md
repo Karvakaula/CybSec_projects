@@ -1,9 +1,10 @@
-# CybSec_projects
-This repository is for cybersecurity related projects.
 
-## Kyberpuolustus Moduuli
+## Kyberpuolustus Moduuli info
 
 Tämä moduuli sisältää projekteja, jotka on toteutettu osana JAMK Ammattikorkeakoulun kyberturvallisuuden koulutusohjelmaa. Projektit keskittyvät kyberturvallisuuden keskeisiin osa-alueisiin, joiden avulla kehitetään osaamista kyberuhkien havaitsemisessa, niiden torjunnassa ja tietoturvan hallinnassa.
+
+Kaikki tehtävät on suoritettu kuvitteellisen yrityksen DefendByVirtual VLE ympäristöön, joka on kuvattu alla
+![VLE](./kuvat/VLE.png)
 
 #### Aihealueet
 
